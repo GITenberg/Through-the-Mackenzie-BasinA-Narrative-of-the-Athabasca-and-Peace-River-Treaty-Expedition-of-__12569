@@ -1,0 +1,31 @@
+_repo: Through-the-Mackenzie-BasinA-Narrative-of-the-Athabasca-and-Peace-River-Treaty-Expedition-of-__12569
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mair, Charles
+    birthdate: 1838
+    deathdate: 1927
+    gutenberg_agent_id: '2214'
+    url: http://www.gutenberg.org/2009/agents/2214
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Mair
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alberta -- Description and travel'
+- !lcsh 'Indians of North America -- Canada -- Treaties'
+- !lcsh 'Athabasca and Peace River treaty expedition, 1899'
+- !lcsh 'Birds -- Northwest, Canadian'
+- !lcsh 'Mammals -- Northwest, Canadian'
+- !lcc 'F1001'
+- GITenberg
+title: 'Through the Mackenzie Basin
+
+  A Narrative of the Athabasca and Peace River Treaty Expedition of 1899'
+url: http://www.gutenberg.org/ebooks/12569
